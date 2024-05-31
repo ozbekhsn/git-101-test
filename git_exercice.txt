@@ -8,3 +8,7 @@ How are you today?
 I like Java 
 
 I am working on git
+
+Github dan yeni bir ekleme yaptim buraya
+
+Bir kontrol et localde
