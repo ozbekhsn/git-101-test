@@ -12,3 +12,5 @@ I am working on git
 Github dan yeni bir ekleme yaptim buraya
 
 Bir kontrol et localde
+
+Yerelden remot repostory e birseyler gonder
